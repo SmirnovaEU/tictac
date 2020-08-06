@@ -153,11 +153,11 @@ public class Main {
             return false;
         }
         if (countLineX == 1) {
-            System.out.println("X wins");
+            System.out.println("X wins!");
             return true;
         }
         if (countLineY == 1) {
-            System.out.println("O wins");
+            System.out.println("O wins!");
         }
         return true;
     }
